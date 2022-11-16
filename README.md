@@ -1,12 +1,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-- 👋 Hi, I’m Sepehr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+● Hi, I’m Sepehr
+● I live in Ahvaz/Iran
+● I’m learning js and python
+● I’m Configure of 🌙 MoonTeam
 
- 
-<p> 
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+sepehr;I'm+learning+js+and+python" /></a> 
- </p>
