@@ -2,9 +2,3 @@
 
 ● Hi, I’m Sepehr
 
-● I live in Ahvaz/Iran
-
-● I’m learning js and python
-
-● I’m Configure of 🌙 MoonTeam
-
